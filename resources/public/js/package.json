@@ -1,0 +1,9 @@
+{
+  "name": "butler",
+  "description": "nodejs server",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+     "w3c-xmlhttprequest" : "1.1.0"
+  }
+}
